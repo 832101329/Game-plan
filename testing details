@@ -1,0 +1,48 @@
+Here is some content of our testing content：
+
+The test environment
+
+The test environment will include the following aspects:
+
+1. Hardware environment: Testers will use computers and mobile devices with different configurations for testing to ensure the normal operation of the game in various hardware environments.
+
+2. Software environment: Testers will use appropriate operating systems and game platforms, such as Windows, iOS, Android, etc.
+
+3. Test tools: According to needs, testers can choose suitable test tools, such as Unity Test Framework, Selenium, user behavior analysis tools, etc.
+
+
+Test strategy
+
+The testing strategy will include the following:
+
+1. Black Box testing: Testers will test from the perspective of the end user to verify the functionality and user experience of the game.
+
+2. White Box testing: Testers will go deep inside the game to verify the game's logic and puzzle difficulty.
+
+3. Compatibility test: Testers will test the compatibility of the game on different platforms and devices to ensure the normal operation of the game in various environments.
+
+4. Performance testing: The tester will evaluate the performance of the game, including loading speed, frame rate stability, etc.
+
+5. Security testing: Testers will test the security of the game, including anti-cheating, data protection and other aspects.
+
+Test Case Document
+
+Test Case ID: TC001
+Title: Game Interface Testing
+
+Test Objective: Verify if the game interface functions properly.
+
+Preconditions:
+1. The game is installed and launched.
+
+Test Steps:
+1. Open the game application.
+2. Click on the start button.
+
+Expected Results:
+1. The game launches successfully and displays the start screen.
+2. After clicking the start button, the game starts running.
+
+Actual Results:
+1. The game launches successfully.
+2. After clicking the start button, the game starts running.
